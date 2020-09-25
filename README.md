@@ -1,3 +1,14 @@
+## What is this ?
+
+* A python package for pypi
+
+## Installation
+
+* Type the following commands
+
+* 'pip install hithere'
+
+
 ## Usage
 
 * python
