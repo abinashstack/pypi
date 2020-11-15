@@ -8,6 +8,9 @@
 
 * 'pip install hithere'
 
+*  fOR pYTHON 3 :
+* pip3 install hithere
+
 
 ## Usage
 
